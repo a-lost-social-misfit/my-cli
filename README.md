@@ -17,7 +17,7 @@ call-me-in-cli <name>
 ### Example
 
 ```sh
-$ my-cli Alice
+$ call-me-in-cli Alice
 Hello, Alice!
 ```
 
