@@ -1,0 +1,11 @@
+[package]
+name = "my-cli"
+version = "0.1.0"
+edition = "2024"
+authors = ["a-lost-social-misfit<a.lost.social.misfit@gmail.com>"]
+description = "A simple Rust CLI for learning purposes"
+license = "MIT"
+repository = "https://github.com/a-lost-social-misfit/my-cli"
+
+[dependencies]
+clap = { version = "4.3", features = ["derive"] }
