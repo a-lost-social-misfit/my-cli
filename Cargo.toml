@@ -1,5 +1,5 @@
 [package]
-name = "my-cli"
+name = "call-me-in-cli"
 version = "0.1.0"
 edition = "2024"
 authors = ["a-lost-social-misfit<a.lost.social.misfit@gmail.com>"]
